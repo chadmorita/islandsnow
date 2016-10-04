@@ -1,4 +1,10 @@
-#menu {
+#topmenu {
+  background-color: #F5F5F5;
+  box-shadow: none;
+  border: none;
+}
+
+#middlemenu {
   background-color: #F5F5F5;
   box-shadow: none;
   border: none;
